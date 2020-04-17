@@ -17,124 +17,137 @@ h2 {
   color: #b8a054;
 }
 
-#box-spring {
-  width: 1000px;
+.mycontainer {
+  height: 100vw;
+  width: 80vw;
+  border: 3px solid black;
   display: flex;
-  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+#box-spring {
+  display: flex;
   justify-content: space-evenly;
   align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  border: 5px solid green;
+  width: 60vw;
   border: 3px black bold;
 }
 #box-spring #col1 {
   background-color: #faceef;
-  width: 200px;
-  height: 200px;
+  width: 10px;
+  height: 10px;
   padding: 10px;
 }
 #box-spring #col2 {
   background-color: rgba(209, 106, 218, 0.699);
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 #box-spring #col3 {
   background-color: #dfd15b;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 
 #box-summer {
   width: 1000px;
-  display: flex;
   padding: 10px;
-  justify-content: center;
+  display: flex;
+  justify-content: space-evenly;
   align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
   border: 3px black bold;
 }
 #box-summer #col4 {
   background-color: rgba(31, 161, 64, 0.2);
-  width: 200px;
-  height: 200px;
+  width: 10px;
+  height: 10px;
   padding: 10px;
 }
 #box-summer #col5 {
   background-color: #00f0f0;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 #box-summer #col6 {
   background-color: #fac943;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 
 #box-autumn {
   width: 1000px;
-  display: flex;
   padding: 10px;
-  justify-content: center;
+  display: flex;
+  justify-content: space-evenly;
   align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
   border: 3px black bold;
 }
 #box-autumn #col7 {
   background-color: #e26060;
-  width: 200px;
-  height: 200px;
+  width: 10px;
+  height: 10px;
   padding: 10px;
 }
 #box-autumn #col8 {
   background-color: #645932;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 #box-autumn #col9 {
   background-color: #b8a054;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 
 #box-winter {
   width: 1000px;
-  display: flex;
   padding: 10px;
-  justify-content: center;
-  align-items: center;
   border: 3px black bold;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
 }
 #box-winter #col10 {
   background-color: #56a7f3;
-  width: 200px;
-  height: 200px;
+  width: 10px;
+  height: 10px;
   padding: 10px;
 }
 #box-winter #col11 {
   background-color: #6d60e2;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
+  height: 10px;
 }
 #box-winter #col12 {
   background-color: #60e2c6;
-  width: 200px;
+  width: 10px;
   padding: 10px;
-  height: 200px;
-}
-
-.mycontainer {
-  height: 120vh;
-  width: 80vw;
-  border: 3px solid black;
-}
-
-.b {
-  height: 30vh;
-  width: 80vw;
-  border: 3px solid red;
+  height: 10px;
 }
 
 nav li {
@@ -148,46 +161,6 @@ nav a {
 }
 nav a:hover {
   background-color: #a31e1e;
-}
-
-#box-spring {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 3rem;
-  font-weight: bold;
-}
-
-#box-summer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 3rem;
-  font-weight: bold;
-}
-
-#box-autumn {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 3rem;
-  font-weight: bold;
-}
-
-#box-winter {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 3rem;
-  font-weight: bold;
 }
 
 /*!
