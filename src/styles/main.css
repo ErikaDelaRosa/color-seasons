@@ -18,8 +18,8 @@ h2 {
 }
 
 .mycontainer {
-  height: 100vw;
-  width: 80vw;
+  height: 18vw;
+  width: 60vw;
   border: 3px solid black;
   display: flex;
   flex-direction: column;
@@ -34,27 +34,26 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3rem;
   font-weight: bold;
-  border: 5px solid green;
   width: 60vw;
   border: 3px black bold;
 }
 #box-spring #col1 {
   background-color: #faceef;
-  width: 10px;
-  height: 10px;
+  width: 60px;
+  height: 60px;
   padding: 10px;
 }
 #box-spring #col2 {
   background-color: rgba(209, 106, 218, 0.699);
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 #box-spring #col3 {
   background-color: #dfd15b;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 
 #box-summer {
@@ -67,25 +66,26 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3rem;
   font-weight: bold;
+  width: 60vw;
   border: 3px black bold;
 }
 #box-summer #col4 {
   background-color: rgba(31, 161, 64, 0.2);
-  width: 10px;
-  height: 10px;
+  width: 60px;
+  height: 60px;
   padding: 10px;
 }
 #box-summer #col5 {
   background-color: #00f0f0;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 #box-summer #col6 {
   background-color: #fac943;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 
 #box-autumn {
@@ -98,25 +98,26 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3rem;
   font-weight: bold;
+  width: 60vw;
   border: 3px black bold;
 }
 #box-autumn #col7 {
   background-color: #e26060;
-  width: 10px;
-  height: 10px;
+  width: 60px;
+  height: 60px;
   padding: 10px;
 }
 #box-autumn #col8 {
   background-color: #645932;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 #box-autumn #col9 {
   background-color: #b8a054;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 
 #box-winter {
@@ -130,24 +131,25 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 3rem;
   font-weight: bold;
+  width: 60vw;
 }
 #box-winter #col10 {
   background-color: #56a7f3;
-  width: 10px;
-  height: 10px;
+  width: 60px;
+  height: 60px;
   padding: 10px;
 }
 #box-winter #col11 {
   background-color: #6d60e2;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 #box-winter #col12 {
   background-color: #60e2c6;
-  width: 10px;
+  width: 60px;
   padding: 10px;
-  height: 10px;
+  height: 60px;
 }
 
 nav li {
